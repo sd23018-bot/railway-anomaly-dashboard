@@ -1,0 +1,8 @@
+streamlit==1.41.1
+numpy
+pandas
+plotly
+scikit-learn
+openpyxl
+statsmodels
+xgboost
