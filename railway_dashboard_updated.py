@@ -5,7 +5,7 @@ Built to accompany: "Anomaly Detection and Failure Prediction Using Machine
 Learning in Railway for Critical Component"
 
 Run with:
-    streamlit run app.py
+    streamlit run railway_dashboard_updated.py
 """
 
 import io
