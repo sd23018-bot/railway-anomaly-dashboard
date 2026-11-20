@@ -6,11 +6,11 @@ Streamlit dashboard for exploring railway sensor data, detecting anomalies, and 
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run railway_dashboard_updated.py
 ```
 
 Upload an Excel sensor dataset using the dashboard sidebar.
 
 ## Deploy
 
-Create a Streamlit Community Cloud app from this GitHub repository and select `app.py` as the entry point.
+Create a Streamlit Community Cloud app from this GitHub repository and select `railway_dashboard_updated.py` as the entry point.
